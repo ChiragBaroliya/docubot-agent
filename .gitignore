@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+# Node
+node_modules/
+dist/
+.env
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+=======
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs/
+bin
+obj
+debug
+
+>>>>>>> a317be4af88d2cbfadb89957f6a1abe9c46ff187

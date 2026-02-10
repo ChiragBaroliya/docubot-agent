@@ -1,0 +1,1 @@
+{"version":3,"file":"commitValidator.js","sourceRoot":"","sources":["commitValidator.ts"],"names":[],"mappings":"AAAA,qBAAqB;AACrB,iDAAiD;AAEjD;;;;GAIG;AACH,MAAM,UAAU,qBAAqB,CAAC,OAAe;IACnD,2CAA2C;IAC3C,MAAM,WAAW,GAAG,6DAA6D,CAAC;IAClF,OAAO,WAAW,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;AACnC,CAAC"}

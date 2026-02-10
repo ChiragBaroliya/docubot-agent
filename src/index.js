@@ -22,7 +22,7 @@ try {
     if (!validateBranch(branchName)) {
         console.error("❌ Invalid branch name format");
         console.error("Expected: feature/JIRA-123-description");
-        process.exit(1); // Exit with error for CI/CD
+        process.exit(1); 
     }
     else {
         console.log("✅ Branch name is valid");
